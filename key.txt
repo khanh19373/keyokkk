@@ -1,1 +1,7 @@
-KhanhIOS
+{
+    "status": "success",
+    "message": "TẠO KEY THÀNH CÔNG",
+    "loichuc": "Buổi Trưa Tốt Lành!!",
+    "key": "cd3d20ed130247fd",
+    "link": "https:\/\/link1s.com\/qpgRo"
+}
